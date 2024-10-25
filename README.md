@@ -3,12 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2024 - To: 23 October 2024
+From: 17 October 2024 - To: 24 October 2024
 
-Total Time: 2 hrs 18 mins
+Total Time: 5 hrs 23 mins
 
-Scala   2 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.99 %
-Other   0 secs          -------------------------   00.01 %
+Scala   5 hrs 23 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.77 %
+TeX     0 secs          -------------------------   00.12 %
+Other   0 secs          -------------------------   00.11 %
 ```
 
 <!--END_SECTION:waka-->
