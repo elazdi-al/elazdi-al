@@ -3,15 +3,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2024 - To: 26 October 2024
+From: 20 October 2024 - To: 27 October 2024
 
-Total Time: 15 hrs 31 mins
+Total Time: 17 hrs 20 mins
 
-Scala        14 hrs 26 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.93 %
-Bash         28 mins         >------------------------   03.07 %
-JSON         20 mins         >------------------------   02.18 %
-Markdown     12 mins         -------------------------   01.28 %
-Other        11 mins         -------------------------   01.21 %
+Scala             15 hrs 55 mins  >>>>>>>>>>>>>>>>>>>>>>>--   90.78 %
+Bash              28 mins         >------------------------   02.75 %
+TeX               21 mins         >------------------------   02.02 %
+JSON              20 mins         -------------------------   01.95 %
+Markdown          12 mins         -------------------------   01.15 %
+Other             11 mins         -------------------------   01.08 %
 ```
 
 <!--END_SECTION:waka-->
