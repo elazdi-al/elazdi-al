@@ -1,15 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2024 - To: 05 November 2024
+From: 30 October 2024 - To: 06 November 2024
 
-Total Time: 6 hrs 47 mins
+Total Time: 5 hrs
 
-Scala        4 hrs 54 mins   >>>>>>>>>>>>>>>>>>-------   70.05 %
-Text         34 mins         >>-----------------------   08.26 %
-Assembly     33 mins         >>-----------------------   08.01 %
-Bash         14 mins         >------------------------   03.42 %
-Other        12 mins         >------------------------   02.95 %
+Scala        3 hrs 34 mins   >>>>>>>>>>>>>>>>>--------   68.07 %
+Python       44 mins         >>>>---------------------   14.21 %
+Bash         14 mins         >------------------------   04.73 %
+Other        14 mins         >------------------------   04.45 %
 ```
 
 <!--END_SECTION:waka-->
