@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2024 - To: 25 November 2024
+From: 19 November 2024 - To: 26 November 2024
 
-Total Time: 35 hrs 19 mins
+Total Time: 37 hrs 55 mins
 
-Python            15 hrs 16 mins  >>>>>>>>>>>--------------   42.83 %
-V                 5 hrs 57 mins   >>>>---------------------   16.71 %
-Scala             4 hrs 27 mins   >>>----------------------   12.47 %
-TypeScript        2 hrs 58 mins   >>-----------------------   08.34 %
-YAML              1 hr 25 mins    >------------------------   04.01 %
-Markdown          1 hr 18 mins    >------------------------   03.67 %
-JSON              1 hr 8 mins     >------------------------   03.22 %
-Bash              1 hr 5 mins     >------------------------   03.06 %
-Other             20 mins         -------------------------   00.97 %
+Python            15 hrs 16 mins  >>>>>>>>>>---------------   39.93 %
+Scala             9 hrs 12 mins   >>>>>>-------------------   24.06 %
+V                 3 hrs 45 mins   >>-----------------------   09.80 %
+TypeScript        2 hrs 58 mins   >>-----------------------   07.77 %
+YAML              1 hr 25 mins    >------------------------   03.74 %
+Markdown          1 hr 18 mins    >------------------------   03.42 %
+JSON              1 hr 8 mins     >------------------------   03.00 %
+Bash              1 hr 7 mins     >------------------------   02.94 %
+Other             20 mins         -------------------------   00.90 %
 ```
 
 <!--END_SECTION:waka-->
