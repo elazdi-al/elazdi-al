@@ -1,15 +1,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2024 - To: 09 December 2024
+From: 03 December 2024 - To: 10 December 2024
 
-Total Time: 23 hrs 5 mins
+Total Time: 18 hrs 40 mins
 
-Scala        18 hrs 9 mins   >>>>>>>>>>>>>>>>>>>>-----   78.39 %
-Python       3 hrs 15 mins   >>>>---------------------   14.06 %
-JSON         51 mins         >------------------------   03.69 %
-YAML         43 mins         >------------------------   03.15 %
-Other        3 mins          -------------------------   00.27 %
+Scala        14 hrs 10 mins  >>>>>>>>>>>>>>>>>>>------   75.15 %
+Python       2 hrs 6 mins    >>>----------------------   11.21 %
+YAML         43 mins         >------------------------   03.86 %
+V            36 mins         >------------------------   03.19 %
+Assembly     36 mins         >------------------------   03.19 %
+JSON         20 mins         -------------------------   01.82 %
+Other        11 mins         -------------------------   01.01 %
 ```
 
 <!--END_SECTION:waka-->
