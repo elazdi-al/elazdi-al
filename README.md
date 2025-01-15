@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2025 - To: 12 January 2025
+From: 06 January 2025 - To: 13 January 2025
 
-Total Time: 5 hrs 23 mins
+Total Time: 7 hrs 33 mins
 
-TeX      5 hrs 20 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.00 %
-Python   3 mins          -------------------------   00.98 %
+TeX      7 hrs 30 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.28 %
+Python   3 mins          -------------------------   00.70 %
 Other    0 secs          -------------------------   00.02 %
 ```
 
